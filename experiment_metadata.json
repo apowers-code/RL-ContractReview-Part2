@@ -1,0 +1,17 @@
+{
+  "author": "A Powers",
+  "project": "Risk-Based Information Security Contract Review",
+  "seed": 42,
+  "total_scenarios": 240,
+  "train_scenarios": 192,
+  "held_out_scenarios": 48,
+  "timesteps_requested": 150000,
+  "episodes_completed": 12544,
+  "policy": "PPO MlpPolicy",
+  "experiment_only": true,
+  "part_1_changes": [
+    "Specified control baseline",
+    "Specified risk score",
+    "Defined 12-step discrete environment"
+  ]
+}

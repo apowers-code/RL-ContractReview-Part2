@@ -1,0 +1,4 @@
+policy,mean_reward,control_accuracy,vsa_accuracy,risk_accuracy,missed_required_controls,unnecessary_controls,invalid_control_actions,total_required_controls,required_control_miss_rate
+ppo,14.71875,0.9145833333333333,1.0,1.0,0,41,0,408,0.0
+random,-6.625,0.44375000000000003,0.5625,0.25,229,38,0,408,0.5612745098039216
+expert,16.0,1.0,1.0,1.0,0,0,0,408,0.0
